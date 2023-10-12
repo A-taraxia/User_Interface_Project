@@ -1,0 +1,33 @@
+D:\Visual studio\repos\User Interface\bin\Debug\User Interface.exe.config
+D:\Visual studio\repos\User Interface\bin\Debug\User Interface.exe
+D:\Visual studio\repos\User Interface\bin\Debug\User Interface.pdb
+D:\Visual studio\repos\User Interface\obj\Debug\User Interface.csproj.AssemblyReference.cache
+D:\Visual studio\repos\User Interface\obj\Debug\User_Interface.Form1.resources
+D:\Visual studio\repos\User Interface\obj\Debug\User_Interface.Properties.Resources.resources
+D:\Visual studio\repos\User Interface\obj\Debug\User Interface.csproj.GenerateResource.cache
+D:\Visual studio\repos\User Interface\obj\Debug\User Interface.csproj.CoreCompileInputs.cache
+D:\Visual studio\repos\User Interface\obj\Debug\User Interface.exe
+D:\Visual studio\repos\User Interface\obj\Debug\User Interface.pdb
+D:\Visual studio\repos\User Interface\obj\Debug\User_Interface.Form2.resources
+D:\Visual studio\repos\User Interface\obj\Debug\User_Interface.Form3.resources
+D:\Visual studio\repos\User Interface\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Visual studio\repos\User Interface\bin\Debug\System.Web.Helpers.dll
+D:\Visual studio\repos\User Interface\bin\Debug\System.Web.Mvc.dll
+D:\Visual studio\repos\User Interface\bin\Debug\System.Web.Razor.dll
+D:\Visual studio\repos\User Interface\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Visual studio\repos\User Interface\bin\Debug\System.Web.WebPages.dll
+D:\Visual studio\repos\User Interface\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Visual studio\repos\User Interface\bin\Debug\System.Web.Helpers.xml
+D:\Visual studio\repos\User Interface\bin\Debug\System.Web.Mvc.xml
+D:\Visual studio\repos\User Interface\bin\Debug\System.Web.Razor.xml
+D:\Visual studio\repos\User Interface\bin\Debug\System.Web.WebPages.xml
+D:\Visual studio\repos\User Interface\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Visual studio\repos\User Interface\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Visual studio\repos\User Interface\obj\Debug\User Interface.csproj.CopyComplete
+D:\Visual studio\repos\User Interface\obj\Debug\User_Interface.Form4.resources
+D:\Visual studio\repos\User Interface\obj\Debug\User_Interface.Form5.resources
+D:\Visual studio\repos\User Interface\obj\Debug\User_Interface.Form6.resources
+D:\Visual studio\repos\User Interface\obj\Debug\User_Interface.Form7.resources
+D:\Visual studio\repos\User Interface\obj\Debug\User_Interface.Form8.resources
+D:\Visual studio\repos\User Interface\obj\Debug\User_Interface.Form9.resources
+D:\Visual studio\repos\User Interface\obj\Debug\User_Interface.Form10.resources
